@@ -1,0 +1,26 @@
+<reservations>
+	<reservation>
+		<hotel>Hotel Mia</hotel>
+		<startDate>12/12/2021</startDate>
+		<endDate>16/12/2021</endDate>
+		<totalPayment>1233</totalPayment>
+	</reservation>
+	<reservation>
+		<hotel>Hotel InCity</hotel>
+		<startDate>11/10/2021</startDate>
+		<endDate>13/10/2021</endDate>
+		<totalPayment>223</totalPayment>
+	</reservation>
+	<reservation>
+		<hotel>Hotel Felicia</hotel>
+		<startDate>19/08/2021</startDate>
+		<endDate>21/08/2021</endDate>
+		<totalPayment>323</totalPayment>
+	</reservation>
+	<reservation>
+		<hotel>Hotel Cora</hotel>
+		<startDate>01/06/2021</startDate>
+		<endDate>08/06/2021</endDate>
+		<totalPayment>2455</totalPayment>
+	</reservation>
+</reservations>
